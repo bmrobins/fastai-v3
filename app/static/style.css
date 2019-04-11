@@ -13,6 +13,7 @@ body {
     padding-right:50px;
     text-align: center;
     font-size: 14px;
+    color: #FFFFFF;
 }
 
 .title {
@@ -24,7 +25,6 @@ body {
 
 .content {
     margin-top: 10em;
-    color: #FFFFFF;
 }
 
 .analyze {
